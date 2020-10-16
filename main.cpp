@@ -1,6 +1,11 @@
-＃包括<bits/stdc++.h>
+#include "sr.h"
+#include <bits/stdc++.h>
 using namespace std;
 int main()
 {
-  return 0;
+    while (true)
+    {
+        sr();
+    }
+    return 0;
 }
