@@ -1,11 +1,9 @@
-#include "sr.h"
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 int main()
 {
-    while (true)
-    {
-        sr();
-    }
+    printf("请输入文件路径:");
+    string lujing;
+    gets_s(lujing);
     return 0;
 }
